@@ -1,0 +1,45 @@
+# CMake build files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+compile_commands.json
+Makefile
+*.cbp # CodeBlocks project file
+*.xcodeproj/ # Xcode project
+*.xcworkspace/ # Xcode workspace
+
+# CLion specific files
+.idea/
+cmake-build-*/
+
+# Executables
+*.exe
+*.out
+*.app
+*.dll
+*.so
+*.dylib
+
+# Object files
+*.o
+*.obj
+*.ko
+*.o.d
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+
+# Debug files
+*.DS_Store
+*.stackdump
+*~
+*.swp
+
+# User-specific files (if any, like local configurations)
+# example:
+# local_config.h
